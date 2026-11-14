@@ -13,6 +13,7 @@ Welcome to the official technical portfolio and lab repository for the **Codomax
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Module 01](./Module-01-Foundations/README.md)** | Day 1 – Day 5 | Beginner | **Cybersecurity & Networking Foundations** | Fundamentals Report & Practical Lab Record | ✅ Completed |
 | **[Module 02](./Module-02-Linux-Recon/README.md)** | Day 6 – Day 10 | Beginner | **Linux, Security Tools & Reconnaissance** | Technical Report & Controlled Recon Lab Record | ✅ Completed |
+| **[Module 03](./Module-03-Web-App-Security/README.md)** | Day 11 – Day 15 | Intermediate | **Web Application Security (Milestone)** | OWASP Top 10 Analysis, Vulnerability Report & Secure Code Lab | ✅ Completed |
 
 ## 🏗️ Controlled Security Lab Architecture
 
