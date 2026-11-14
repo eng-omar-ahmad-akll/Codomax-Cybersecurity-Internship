@@ -2,14 +2,10 @@
 
 Welcome to the official technical portfolio and lab repository for the **Codomax Digital Solutions Cybersecurity & Ethical Hacking Internship**. This repository houses comprehensive technical reports, architectural analyses, and hands-on lab records conducted within an isolated security environment.
 
----
-
-## 👨‍💻 Intern Profile
+## 👨💻 Intern Profile
 * **Name:** Omar Ahmed Akl
 * **Role:** SOC Analyst & Cybersecurity Specialist
 * **GitHub:** [@eng-omar-ahmad-akll](https://github.com/eng-omar-ahmad-akll)
-
----
 
 ## 📂 Internship Modules & Deliverables
 
@@ -17,8 +13,6 @@ Welcome to the official technical portfolio and lab repository for the **Codomax
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Module 01](./Module-01-Foundations/README.md)** | Day 1 – Day 5 | Beginner | **Cybersecurity & Networking Foundations** | Fundamentals Report & Practical Lab Record | ✅ Completed |
 | **[Module 02](./Module-02-Linux-Recon/README.md)** | Day 6 – Day 10 | Beginner | **Linux, Security Tools & Reconnaissance** | Technical Report & Controlled Recon Lab Record | ✅ Completed |
-
----
 
 ## 🏗️ Controlled Security Lab Architecture
 
@@ -35,9 +29,3 @@ All practical exercises, packet captures, and vulnerability assessments are exec
        │   └─────────────────────┘      └─────────────────────┘   │
        └──────────────────────────────────────────────────────────┘
 ```
-
-### Core Security Toolset Utilized
-* **Network Discovery & Scanning:** `Nmap` (NSE, SYN Stealth, Version/OS Fingerprinting)
-* **Packet & Protocol Analysis:** `Wireshark` (BPF Capture & Display Filters, Stream Reconstruction)
-* **Web Application Security:** `Burp Suite` (Proxy, Repeater, Intruder) & `OWASP ZAP` (Spider, Passive/Active Scan)
-* **System & DNS Auditing:** Linux CLI (`ip`, `ss`, `ps`, `find`, `chmod`, `chown`, `ufw`, `dig`, `nslookup`)
