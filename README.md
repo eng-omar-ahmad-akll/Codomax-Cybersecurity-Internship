@@ -16,6 +16,7 @@ Welcome to the official technical portfolio and lab repository for the **Codomax
 | **[Module 03](./Module-03-Web-App-Security/README.md)** | Day 11 – Day 15 | Intermediate | **Web Application Security (Milestone)** | OWASP Top 10 Analysis, Vulnerability Report & Secure Code Lab ([PDF](./Module-03-Web-App-Security/CodeMax%20-%20Module%2003.pdf)) | ✅ Completed |
 | **[Module 04](./Module-04-Ethical-Hacking-VA/README.md)** | Day 16 – Day 20 | Intermediate | **Ethical Hacking & Vulnerability Assessment** | Technical Report, VA Assessment & Remediation Plan ([PDF](./Module-04-Ethical-Hacking-VA/Module-04-Ethical-Hacking-Vulnerability-Assessment.pdf)) | ✅ Completed |
 | **[Module 05](./Module-05-Defensive-Security-IR/README.md)** | Day 21 – Day 25 | Advanced | **Defensive Security & Incident Response (Capstone)** | Architecture Report, SIEM Telemetry & Incident Playbook ([PDF](./Module-05-Defensive-Security-IR/Module-05-Defensive-Security-Incident-Response.pdf)) | ✅ Completed |
+| **[Module 06](./Module-06-Capstone-AegisSentinel/README.md)** | Day 26 – Day 30 | Capstone | **AegisSentinel SOC & Interactive Portfolio** | Production 2-in-1 Web App, Real-Time Log Analyzer & CV | ✅ Completed |
 
 ## 🏗️ Controlled Security Lab Architecture
 

@@ -1,0 +1,10 @@
+{
+  "name": "codomax-cybersecurity-internship",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix Module-06-Capstone-AegisSentinel run dev",
+    "build": "npm --prefix Module-06-Capstone-AegisSentinel run build",
+    "preview": "npm --prefix Module-06-Capstone-AegisSentinel run preview"
+  }
+}
